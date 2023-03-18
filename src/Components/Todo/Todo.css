@@ -1,0 +1,43 @@
+.todo-container{
+    background:#BBC7C8;
+    text-align: center;
+    padding:10px;
+    border-radius: 10px;
+    margin: auto; 
+}
+
+.input-section{
+    display: flex;
+    margin-top:10px;
+}
+
+.todo-container h1{
+    pointer-events: none;
+    font-size: 1.5rem;
+    font-weight:bold  
+}
+
+
+.add-btn{
+    margin-left: 1rem;
+    background:#191641 ;
+    border-radius: 3px;
+    border: transparent;
+    color: white;
+    height: 2.5rem;
+    width: 4rem;
+    margin-top:0;
+}
+
+.user-details{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.login-icon{
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: white;
+}
+
+

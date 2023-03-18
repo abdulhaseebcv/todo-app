@@ -1,0 +1,12 @@
+.login-container{
+    background: #BBC7C8;
+    border-radius: 10px;
+    margin: auto; 
+    margin-top: 5rem;
+}
+
+.login-img{
+    content: url("/assets/images/todo-logo.png");
+    height: 10em;
+    width: 10em;
+}
